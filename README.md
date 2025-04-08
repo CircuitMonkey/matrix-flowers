@@ -7,8 +7,10 @@ A flower made with module found on Amazon. See my proof of concept project
 for the 74HC164 based module on Arduino at:
 https://github.com/CircuitMonkey/hc164-2x4-led-segment-module
 
-![PCB Top View]( images/matrix-flower-1-a-top.png )
-![PCB Bottom View]( images/matrix-flower-1-a-bottom.png )
+<p align="center">
+  <img src="images/matrix-flower-1-a-top.png" width="256" title="PCB Top View">
+  <img src="images/matrix-flower-1-a-bottom.png" width="256" alt="PCB Bottom View">
+</p>
 
 This flower project builds upon the proof-of-concept by making a custom
 barebones Arduino PCB using the ATmega328P and allows direct soldering of the
