@@ -1325,7 +1325,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.amazon.com/dp/B0BKSNMCV4"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1654,7 +1654,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.amazon.com/dp/B09GP9S1W7"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2778,7 +2778,7 @@
 		(path "/aea0458c-31b9-4a0f-bb2e-abb120031c93")
 		(sheetname "/")
 		(sheetfile "matrix-flower-1.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.727064 0.91)
 			(end 0.727064 0.91)

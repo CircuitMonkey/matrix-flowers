@@ -3048,7 +3048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.amazon.com/dp/B09GP9S1W7"
 			(at 179.07 105.41 0)
 			(effects
 				(font
@@ -3993,7 +3993,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "aea0458c-31b9-4a0f-bb2e-abb120031c93")
 		(property "Reference" "PWR1"
@@ -4359,7 +4359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.amazon.com/dp/B0BKSNMCV4"
 			(at 182.88 74.93 0)
 			(effects
 				(font
