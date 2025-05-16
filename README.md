@@ -17,3 +17,5 @@ barebones Arduino PCB using the ATmega328P and allows direct soldering of the
 LED modulel to that board. The board also provides mechanical mounting of a
 fabricated flower stem that facilitates DC power to the module from the bottom
 of the powered vase.
+
+[YouTube: Video of the working bouquet for Matrix-1](https://youtu.be/2mtg5pHPPw4)
