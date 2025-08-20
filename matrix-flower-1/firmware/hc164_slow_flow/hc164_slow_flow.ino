@@ -7,8 +7,8 @@
   
 */
 
-#define DATA_PIN 3
-#define CLK_PIN 2
+#define DATA_PIN 2
+#define CLK_PIN 3
 
 // Segment layout
 // Seg: MSB-LSB: 
